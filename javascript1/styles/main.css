@@ -1,0 +1,11 @@
+.bingo{
+  color: blue;
+}
+
+h1#ID1{
+  color: green;
+}
+
+h1.bingo {
+  color: red;
+}
